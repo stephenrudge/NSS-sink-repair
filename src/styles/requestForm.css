@@ -1,0 +1,27 @@
+.button{
+    color: #F9FBD2;
+    background-color: #474EA0;
+    margin-top: 30px;
+    padding: 7px;
+    border-radius: 2px;
+}
+.field{
+    flex-direction: column;
+    width: 200px;
+    margin-top: 10px;
+    font-size: medium;  
+
+}
+.input{
+    width: 450px;
+}
+.requestList{
+    background-color: aquamarine;
+}
+.request__delete{
+    color: #F9FBD2;
+    background-color: #474EA0;
+    margin-top: 30px;
+    padding: 7px;
+    border-radius: 2px;
+}
